@@ -1,0 +1,36 @@
+# GUI Framework
+PySide6>=6.5.0
+
+# 3D Visualization
+py3Dmol>=2.0.0
+
+# Molecular Processing
+biopython>=1.81
+rdkit>=2023.3.1
+
+# Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Testing Framework
+pytest>=7.4.0
+pytest-cov>=4.1.0
+hypothesis>=6.82.0
+
+# Report Generation
+reportlab>=4.0.0
+
+# File Processing
+openpyxl>=3.1.0
+
+# Logging
+loguru>=0.7.0
+
+# Configuration
+pyyaml>=6.0
+
+# Development Tools
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
